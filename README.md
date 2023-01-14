@@ -1,5 +1,5 @@
 # plot-gallery
-WIP gallery [here I'll store any nice plots I find] (https://youtu.be/_lrMe_nOvsg?t=14)
+WIP gallery [here I'll store any nice plots I find](https://youtu.be/_lrMe_nOvsg?t=14)
 
 
 ## [3D Plots](./notebooks/3dplots.ipynb)
