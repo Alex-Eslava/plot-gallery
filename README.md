@@ -21,3 +21,6 @@ WIP gallery [here I'll store any nice plots I find](https://youtu.be/_lrMe_nOvsg
 
 
 ## [Scatter Plots](./notebooks/scatterplots.ipynb)
+
+
+## [TS Related Plots](./notebooks/timeseries.ipynb)
